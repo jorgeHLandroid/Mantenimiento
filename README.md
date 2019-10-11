@@ -1,3 +1,3 @@
 # Mantenimiento
 Proyecto final _DAM_.
-Aplicacion que permite almacenar las intervenciones de mantenimiento o averia que se realizen en un vehiculo.
+Aplicacion que permite almacenar las intervenciones de mantenimiento o averia que se realicen en un vehiculo.
